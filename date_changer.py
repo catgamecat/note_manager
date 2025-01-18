@@ -1,0 +1,6 @@
+created_date1 = str('12-03-2024')
+created_date2 = str('12 марта 2024')
+print (created_date1)
+print (created_date2)
+print (created_date1[0:5])
+print (created_date2[0:9])
